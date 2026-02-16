@@ -9,12 +9,7 @@ data/
 *.parquet
 *.pkl
 
-# Outputs
-results/*
-figures/*
-*.png
-*.jpg
-*.pdf
+
 
 # Secrets / auth
 .env
