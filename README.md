@@ -143,8 +143,15 @@ Below are key outputs from the calibrated multimodal pipeline.
 ---
 
 ## References
-- Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system.
-- Cho, K., et al. (2014). Learning phrase representations using RNN encoder–decoder.
+
+- Adebayo, D., Teke, J., Origbo, J. E., Osonuga, A., Egbon, E., & Olawade, D. B. (2025). AI-driven triage in emergency departments: A review of benefits, challenges, and future directions. *International Journal of Medical Informatics, 197*, 105838. https://doi.org/10.1016/j.ijmedinf.2025.105838
+
+- Shafaf, N., & Malek, H. (2019). Applications of machine learning approaches in emergency medicine: A review article. *Archives of Academic Emergency Medicine, 7*(1), 34. https://doi.org/10.22037/aaem.v7i1.410
+
+- Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. In *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (pp. 785–794).
+
+- Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder–decoder for statistical machine translation. *arXiv preprint arXiv:1406.1078*.
+
 
 (Full reference list maintained in the associated paper/thesis document.)
 
@@ -155,6 +162,8 @@ MIT License — see `LICENSE`.
 
 ---
 
-## Author
-Olaoluwa Malachi  
-olaoluwa.malachi@unb.ca
+## How to Cite
+
+If you use this repository or its methodology in academic work, please cite:
+
+Malachi, O., & Light, J. (2026). *Calibrated multimodal ED triage risk prediction using MIMIC-IV ED: XGBoost, TF-IDF fusion, and GRU-based temporal modeling*. University of New Brunswick.
